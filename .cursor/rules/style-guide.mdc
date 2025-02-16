@@ -1,0 +1,33 @@
+---
+description: Style Guide - Celan and Modern Design
+globs: *.vue
+---
+# Clean and Modern Design Rules
+## Simplicity First
+- Remove unnecessary elements to reduce clutter.
+- Focus on essential content and functionality.
+- Use minimal color palettes and typography.
+## Intuitive Navigation
+- Ensure a clear and structured menu.
+- Keep navigation options concise and easily accessible.
+- Use breadcrumbs and clear CTAs (Call to Actions).
+## Consistent Visual Identity
+- Maintain uniformity in fonts, colors, and layouts.
+- Stick to a well-defined design system.
+- Align visual elements for a cohesive look.
+## Whitespace and Readability
+- Use ample whitespace to improve readability.
+- Maintain balanced spacing between elements.
+- Prioritize a clean, uncluttered interface.
+## Responsive and Adaptive Layouts
+- Ensure the website adapts to different screen sizes.
+- Use flexible grids and media queries.
+- Optimize images and text for mobile-friendliness.
+## Accessibility and Inclusivity
+- Ensure color contrast for readability.
+- Implement keyboard navigation and screen reader support.
+- Maintain consistent font sizes and hierarchy.
+## Strong Call-To-Actions (CTAs)
+- Make CTAs visually distinct and easy to find.
+- Use clear and compelling messaging.
+- Ensure buttons are large enough for easy interaction.

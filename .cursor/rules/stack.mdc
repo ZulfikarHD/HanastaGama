@@ -1,0 +1,13 @@
+---
+description: Tech Stack
+globs: *.vue, *.php
+---
+
+# Tech Stack
+- Laravel_11
+- Vue_3
+- Tailwind_V3
+- Vite_V6
+- MariaDB
+- Inertia_SSR
+- Lucide_Icon

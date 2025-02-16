@@ -1,0 +1,19 @@
+---
+description: Style Guide - Animation and Transition
+globs: *.vue
+---
+# Animation and Transition Guide
+## Purposeful Animations:
+- Use animations to highlight key services or project showcases.
+- Ensure each animation serves a clear function, avoiding unnecessary effects.
+## Subtle Transitions:
+- Implement smooth transitions for navigation menus and buttons to enhance user experience.
+- Maintain consistency in transition styles across the site.
+## Reflect Brand Identity
+- Align animation styles with the company's brand and the construction industry's aesthetics.
+- Utilize color schemes and motion that resonate with construction themes (use my color guide).
+## Performance Optimization:
+- Optimize animations to ensure they do not hinder site loading times.
+- Use efficient coding practices and compress media files appropriately.
+## Accessibility Considerations:
+- Ensure animations do not cause distractions or discomfort.

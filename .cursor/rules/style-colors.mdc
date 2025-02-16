@@ -1,0 +1,13 @@
+---
+description: Style Guide - Colors
+globs: *.vue
+---
+# Colors Guide
+## Primary Colors
+- Amber: A warm, golden hue that adds vibrancy.
+- Sky: A light, calming blue that brings a sense of openness.
+- Slate: A cool, neutral gray-blue, providing balance and sophistication.
+## Usage Recommendations:
+- Consistency: Utilize Amber, Sky, and Slate as the primary colors throughout your website to maintain a cohesive look and feel.
+- Contextual Flexibility: Incorporate additional colors when necessary, ensuring they align with the overall design and context. For instance, use accent colors to highlight important elements or to convey specific messages.
+- Accessibility: Ensure sufficient contrast between text and background colors to enhance readability for all users.
